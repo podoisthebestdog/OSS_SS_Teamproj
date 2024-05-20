@@ -1,6 +1,20 @@
+https://github.com/podoisthebestdog/EasyOCR/blob/master/custom_model.md
+
+[cautions]
+we have to download the pth file. 
+i couldn't upload it because of the size.
+
+
+[the main model algorithms]
 these are the files about text extraction from png image files.
 we need to prepare test data as a set of "png" files
 and have to train the model with car index.
 (but i think it's unnneccessary because this model is quite accurate.)
 this model's result is the list about the image
- e.g. 
+ e.g. [([[189, 75], [469, 75], [469, 165], [189, 165]], '愚园路', 0.3754989504814148),
+ ([[86, 80], [134, 80], [134, 128], [86, 128]], '西', 0.40452659130096436),
+ ([[517, 81], [565, 81], [565, 123], [517, 123]], '东', 0.9989598989486694),
+ ([[78, 126], [136, 126], [136, 156], [78, 156]], '315', 0.8125889301300049),]
+
+=> bounding box,extracted text,accuracy
+WE CAN HANDLE IT WITH INDEX
