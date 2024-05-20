@@ -5,7 +5,7 @@
 [requirements.txt](https://github.com/ultralytics/yolov5/blob/712de55a20cd584a12a4aebe96226c92f816dcf3/requirements.txt)
 
 
-### Train Data
+### Prepare Train Data
 
 Yolov5 model requires YAML files.
 
