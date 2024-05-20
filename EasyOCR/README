@@ -1,0 +1,6 @@
+these are the files about text extraction from png image files.
+we need to prepare test data as a set of "png" files
+and have to train the model with car index.
+(but i think it's unnneccessary because this model is quite accurate.)
+this model's result is the list about the image
+ e.g. 
