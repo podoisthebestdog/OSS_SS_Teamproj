@@ -1,0 +1,3 @@
+detectron2 is a model that generates a class label for each object in an image or video.
+To train the model, we need an image file in JPG format or a video file in MP4 format and COCO-JSON annotation data. 
+If not using the provided dataset, it will require modifications to visualize_json_results.py. 
