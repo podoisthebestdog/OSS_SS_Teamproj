@@ -20,7 +20,7 @@ if you can't use this data, please contact us or you can use the 'jpg' images fo
 
 ### 2) How to use
 Download the 'final.py' or visit the link and run the code in colab environment.
-if you want to change the data, 
+if you want to change the data, make a folder of jpg images and change the program's directory code
 
 ### 3) Distribution and Copyleft
 
