@@ -7,7 +7,7 @@ Open Source Software team project
 
 ## overloaded vehicle detection program
 
-## 1) SETTINGS
+### 1) SETTINGS
    
  This program was written in python and our team shared code in google golab environment.
 We used "Dectron2" of facebook, which is object detection model with ballon detection, and modified it to lose code's complexity.
@@ -18,15 +18,15 @@ if you can't use this data, please contact us or you can use the 'jpg' images fo
 [Used Image Data](https://drive.google.com/drive/folders/1sjEpVfYICoc9p9XbG2-4ivKQwat6e4cv?usp=drive_link)
 
 
-## 2) How to use
+### 2) How to use
 Download the 'final.py' or visit the link and run the code in colab environment.
 if you want to change the data, 
 
-## 3) Distribution and Copyleft
+### 3) Distribution and Copyleft
 
-## 4) 
+### 4) 
 
-## 5) more about us
+### 5) more about us
 
 We uploaded our developing progress in 'wiki', so please visit and watch!
 And if you have idead about our project, please let us know 
