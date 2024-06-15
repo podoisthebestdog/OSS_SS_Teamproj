@@ -1,0 +1,3 @@
+this version can handle the GPU support error 
+first you can use the NVIDIA GPU and it's drive
+or you can change the runtime type in google colab environment to T4 GPU
