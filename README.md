@@ -1,7 +1,7 @@
 # OSS_SS_Teamproj
 2024-spring semestor team project
 
-# overloaded vehicle detection program
+overloaded vehicle detection program
 1) SETTINGS
  This program was written in python and our team shared code in google golab environment.
 We used "Dectron2" of facebook, which is object detection model with ballon detection, and modified it to lose code's complexity.
