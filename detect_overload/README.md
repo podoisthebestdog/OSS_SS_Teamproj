@@ -13,3 +13,5 @@
 
 
 3. GPU Runtime Error
+* To train the model, you have to prepare the NVIDIA GPU and its driver.
+* Or you can just handle this error with changing the runtime type in google colab 
