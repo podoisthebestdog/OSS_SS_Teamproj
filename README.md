@@ -1,5 +1,7 @@
 # OSS_SS_Teamproj
-2024-spring semestor team project
+Sookmyung Womens Universary 
+2024-spring semestor
+Open Source Software team project
 
 ## overloaded vehicle detection program
 
@@ -15,8 +17,14 @@ if you want to use this data, please contact us or you can use the 'jpg' images 
 
 
 ## 2) How to use
+Download the 'final.py' or visit the link and run the code in colab environment.
+if you want to change the data, 
 
 ## 3) Distribution and Copyleft
 
-4) 
-5) 
+## 4) 
+
+## 5) more about us
+
+We uploaded our developing progress in 'wiki', so please visit and watch!
+And if you have idead about our project, please let us know 
