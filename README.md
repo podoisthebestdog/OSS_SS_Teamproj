@@ -1,6 +1,8 @@
 # OSS_SS_Teamproj
 Sookmyung Womens Universary 
+
 2024-spring semestor
+
 Open Source Software team project
 
 ## overloaded vehicle detection program
@@ -28,3 +30,5 @@ if you want to change the data,
 
 We uploaded our developing progress in 'wiki', so please visit and watch!
 And if you have idead about our project, please let us know 
+
+>wiki URL : https://github.com/podoisthebestdog/OSS_SS_Teamproj.wiki.git
