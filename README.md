@@ -29,7 +29,7 @@ if you want to change the data, make a folder of jpg images and change the progr
 ### 3) Distribution and Copyleft
 We used object detecion model "Dectron2" by Facebook and Text Image detection model "easyOCR" by JaideAI.
 
->facebook_Dectron2 : 
+>facebook_Dectron2 : https://github.com/facebookresearch/detectron2
 >easy ocr : https://github.com/JaidedAI/EasyOCR
 >License : Apache 2.0
 
