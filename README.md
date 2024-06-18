@@ -31,6 +31,7 @@ We used object detecion model "Dectron2" by Facebook and Text Image detection mo
 
 >facebook_Dectron2 : 
 >easy ocr : https://github.com/JaidedAI/EasyOCR
+>License : Apache 2.0
 
 ### 4) more about us
 
