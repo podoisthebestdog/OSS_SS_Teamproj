@@ -1,9 +1,9 @@
 In this version, we fixed two errors that occurred in version 3.0.  
 
-1. in the process of saving the resulting image  
-    we modified the perform_inference function to perform_inference_on_folder.  
-    it takes a folder path as a parameter and performs inference on all image files in the folder.
-    We also modified the code to pick 5 random images from the folder and visualize them.  
+1. In the process of saving the resulting image  
+   we modified the perform_inference function to perform_inference_on_folder.  
+   it takes a folder path as a parameter and performs inference on all image files in the folder.
+   We also modified the code to pick 5 random images from the folder and visualize them.  
 
 2. In File Import  
    The result_overload variable is a list, so the os.listdir() method cannot be used.  
