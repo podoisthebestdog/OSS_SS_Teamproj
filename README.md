@@ -23,10 +23,12 @@ Download the 'final.py' or visit the link and run the code in colab environment.
 if you want to change the data, make a folder of jpg images and change the program's directory code
 
 ### 3) Distribution and Copyleft
+We used object detecion model "Dectron2" by Facebook and Text Image detection model "easyOCR" by JaideAI.
 
-### 4) 
+>facebook_Dectron2 : 
+>easy ocr : https://github.com/JaidedAI/EasyOCR
 
-### 5) more about us
+### 4) more about us
 
 We uploaded our developing progress in 'wiki', so please visit and watch!
 And if you have idead about our project, please let us know 
