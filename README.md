@@ -11,6 +11,7 @@ Open Source Software team project
    
  This program was written in python and our team shared code in google golab environment.
 We used "Dectron2" of facebook, which is object detection model with ballon detection, and modified it to lose code's complexity.
+and add "easyOCR",text image detectiion model.
 
 The data that used for our project is uploaded in google drive in shared state. 
 if you can't use this data, please contact us or you can use the 'jpg' images for train and test.
@@ -19,8 +20,11 @@ if you can't use this data, please contact us or you can use the 'jpg' images fo
 
 
 ### 2) How to use
+First, you have to install Anaconda environment and install pytorch to use easyOCR.
+Second, download the training data and test data in google drive.
+
 Download the 'final.py' or visit the link and run the code in colab environment.
-if you want to change the data, make a folder of jpg images and change the program's directory code
+if you want to change the data, make a folder of jpg images and change the program's directory code.
 
 ### 3) Distribution and Copyleft
 We used object detecion model "Dectron2" by Facebook and Text Image detection model "easyOCR" by JaideAI.
