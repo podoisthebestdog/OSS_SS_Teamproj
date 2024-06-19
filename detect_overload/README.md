@@ -8,3 +8,6 @@
 | 3.0 | Apply the easyOCR model | 2024.06.18 |
 | 3.5 | Fix error | 2024.06.18 |
 | 4.0 | Fix TypeError | 2024.06.19 |
+| 4.5 | Fix Directory Error | 2024.06.19 |
+| 5.0 | Fix ImportError | 2024.06.20 |
+| 5.0 | Fix FileSaveError | 2024.06.20 |
