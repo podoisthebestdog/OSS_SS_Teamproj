@@ -1,1 +1,4 @@
-.
+changes
+1. already installed easyOCR ERROR : Devide the code into 2 parts
+2. Cannot find the .json file : set the direct directory
+3. Result overload vehicle images saved in file
