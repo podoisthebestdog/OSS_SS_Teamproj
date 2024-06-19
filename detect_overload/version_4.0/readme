@@ -1,4 +1,4 @@
-In this version, we fixed two errors that occurred in version 3.0.  
+In this version, we fixed two errors that occurred in version 3.5.  
 
 1. In the process of saving the resulting image  
    we modified the perform_inference function to perform_inference_on_folder.  
