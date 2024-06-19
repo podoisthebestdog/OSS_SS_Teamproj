@@ -1,4 +1,4 @@
-In this version, we fixed two errors that occurred in version 3.5.  
+In version 4.0, we fixed two errors that occurred in version 3.5.  
 
 1. In the process of saving the resulting image  
    we modified the perform_inference function to perform_inference_on_folder.  
@@ -8,4 +8,6 @@ In this version, we fixed two errors that occurred in version 3.5.
 2. In File Import  
    The result_overload variable is a list, so the os.listdir() method cannot be used.  
    so we modified the code to read the paths (images) in the list after checking that the variable is a list.
-   
+
+In version 4.5, the perform_inference function in the model evaluation part was modified  
+to take the path to the folder where the image file is stored as a parameter, not the path to the image file.
