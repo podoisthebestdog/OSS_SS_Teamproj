@@ -1,0 +1,14 @@
+{
+    "FILE": [
+        {
+            "FILE_NAME": "do0113_1.jpg",
+            "ITEMS": [
+                {
+                    "DRAWING": "Box",
+                    "BOX": "285,79,279,463",
+                    "CLASS": "적재불량"
+                }
+            ]
+        }
+    ]
+}

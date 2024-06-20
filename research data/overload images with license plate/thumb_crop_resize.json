@@ -1,0 +1,14 @@
+{
+    "FILE": [
+        {
+            "FILE_NAME": "thumb_crop_resize.jpg",
+            "ITEMS": [
+                {
+                    "DRAWING": "Box",
+                    "BOX": "64,146,521.5,439.5",
+                    "CLASS": "적재불량"
+                }
+            ]
+        }
+    ]
+}
