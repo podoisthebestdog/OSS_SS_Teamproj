@@ -1,1 +1,3 @@
-
+In this version,  
+images from the validation data that are determined to be overloaded are saved to a specific folder in Google Drive.  
+Also, apply the easyOCR model to the images in that folder to extract the text inside the images
