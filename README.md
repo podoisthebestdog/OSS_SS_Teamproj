@@ -39,4 +39,4 @@ We used object detecion model "Detectron2" by Facebook and Text Image detection 
 We uploaded our developing progress in 'wiki', so please visit and watch!  
 And if you have idead about our project, please let us know 
 
->wiki URL : https://github.com/podoisthebestdog/OSS_SS_Teamproj.wiki.git
+>wiki URL : [https://github.com/podoisthebestdog/OSS_SS_Teamproj.wiki.git](https://github.com/podoisthebestdog/OSS_SS_Teamproj.wiki.git)
